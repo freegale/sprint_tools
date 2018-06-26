@@ -29,7 +29,7 @@ function RepoBackup(){
     cd ..
 }
 
-cd ~/Documents/workspace/git/
+cd ~/Documents/workspace/upgrade/
 version_no=$1
 for dir in $(ls -d */)
 do 
